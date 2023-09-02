@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8670b47e9e16777d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bba9c44851f562b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7ad419eaee730a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "screen 后台执行任务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97a7621ecea13337",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3d151cecd60bb17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5442bc162f24817",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9da3a562c564d176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8980dfa3e954755c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a67ab2c30d3fd13b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "240d0194cf620ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a785f42fa93eb59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c4662519e1ab02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "screen 后台执行任务.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a62d2be4eb519ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "screen 后台执行任务.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ef5e01267346440",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3e78ee169fb47c24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "screen 后台执行任务.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9da3a562c564d176",
+  "lastOpenFiles": [
+    "shell 常用查找删除命令.md",
+    "distcp 拷贝脚本.md",
+    "拷贝修复坏块文件.md",
+    "Hive UDF 无法找到类问题.md",
+    "spark yarn-client 和 yarn-cluster.md",
+    "企业微信截图_facefcc6-a73d-48de-bc9a-873a712b14c7.png",
+    "企业微信截图_e7fd370c-fa9f-4a10-a67a-f6b39f66f375.png",
+    "企业微信截图_e7c6b3ca-0aaf-4a90-b6ff-3a450e98df97.png",
+    "企业微信截图_b8c0b89a-c43c-4a12-b401-8a7238fde1b1.png",
+    "企业微信截图_b87f9112-cd7f-47e2-9b9f-a25816ef2878.png",
+    "企业微信截图_b362b559-01fb-49bc-a469-9996b4b78ecd.png",
+    "企业微信截图_ab9a4163-2ea5-4017-a8cd-1f8044752d4f.png",
+    "企业微信截图_a7798e65-80c1-4632-a8b6-e59d56981d56.png",
+    "企业微信截图_70b69698-7cf5-4b2e-8a2e-59dff4ac53a6.png",
+    "企业微信截图_6b0f3a77-a7f4-442b-8815-3abd8ee736ea.png",
+    "hiveCustomerAuthentication.zip",
+    "hdfs-safe-delete-tool-1.0.jar",
+    "企业微信截图_a7798e65-80c1-4632-a8b6-e59d56981d56.png.nssyncsc",
+    "企业微信截图_70b69698-7cf5-4b2e-8a2e-59dff4ac53a6.png.nssyncsc",
+    "企业微信截图_6b0f3a77-a7f4-442b-8815-3abd8ee736ea.png.nssyncsc",
+    "企业微信截图_610f5caa-8907-46b6-b27f-805c7d5e149d.png.nssyncsc",
+    "企业微信截图_4f3f17f5-1ec5-4937-b534-1b1294625875.png.nssyncsc",
+    "企业微信截图_4db0c919-971d-490a-b1bd-8ce14fbb8260.png.nssyncsc",
+    "企业微信截图_45d3a35f-57a0-4aec-b421-485e4724ef4c.png.nssyncsc",
+    "企业微信截图_16781571142345.png.nssyncsc",
+    "未命名.canvas",
+    "flink 大批量任务提交  yarn 失败问题.md",
+    "长期未完成 checkpoint 导致重启 namenode 慢问题.md",
+    "hive on spark 提交过程分析.md",
+    "Hive 分区条件查询无法查出数据问题.md",
+    "hdfs 写数据流程.md",
+    "hdfs pipeline.md",
+    "hive on spark 更新 lib 后,报无法找到类错误.md",
+    "hive on tez NPE 报错.md",
+    "ranger hive udf 权限控制.md",
+    "HoS 更新 lib 后,报无法找到类错误.md",
+    "JvmPauseMonitor 大量告警问题.md",
+    "namenode JvmPauseMonitor 大量告警问题.md",
+    "flink  jobmanager 终止任务失败问题.md",
+    "flink  ha 问题.md",
+    "书单.md",
+    "hive MapredLocalTask oom 问题.md",
+    "hive maprd.md",
+    "hive MapredLocal.md",
+    "hive udf 导致条件查询子句不生效问题.md",
+    "Hive 条件查询无法查出数据问题.md",
+    "hive grouping sets 写法和常量优化导致结果不符合预期.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
+  ]
+}
