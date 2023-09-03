@@ -1,5 +1,5 @@
 # emr-troubleshoot
-一个 obsidian 知识库，前 EMR 运维打工人手册
+一个 obsidian 知识库，云厂商 EMR 运维打工人手册
 
 have fun
 
